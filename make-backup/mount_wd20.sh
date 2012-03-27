@@ -1,6 +1,5 @@
 #!/bin/sh
 
-# script prepares a backup using rsync
-
+# script mounts wd20
 
 sudo mount -U 384846B6484672A4  /mnt/wd20
